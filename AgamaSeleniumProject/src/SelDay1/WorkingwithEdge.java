@@ -16,7 +16,7 @@ public class WorkingwithEdge {
 }
    
    public void getTitleOfThePage() {
-	   System.out.println("Title of the page:"+driver.getTitle());
+	   System.out.println("Title of the page   :"+driver.getTitle());
 	   
 	  }
    public void closeBrowser() {
